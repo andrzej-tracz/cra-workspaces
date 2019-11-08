@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cra-workspaces/static/css/main.dcfe4c72.chunk.css",
+    "main.js": "/cra-workspaces/static/js/main.153193f5.chunk.js",
+    "main.js.map": "/cra-workspaces/static/js/main.153193f5.chunk.js.map",
+    "runtime~main.js": "/cra-workspaces/static/js/runtime~main.18877d3a.js",
+    "runtime~main.js.map": "/cra-workspaces/static/js/runtime~main.18877d3a.js.map",
+    "static/js/2.b7f52e28.chunk.js": "/cra-workspaces/static/js/2.b7f52e28.chunk.js",
+    "static/js/2.b7f52e28.chunk.js.map": "/cra-workspaces/static/js/2.b7f52e28.chunk.js.map",
+    "index.html": "/cra-workspaces/index.html",
+    "precache-manifest.8d2918524047e563fd7aaf0f84a5ec8e.js": "/cra-workspaces/precache-manifest.8d2918524047e563fd7aaf0f84a5ec8e.js",
+    "service-worker.js": "/cra-workspaces/service-worker.js",
+    "static/css/main.dcfe4c72.chunk.css.map": "/cra-workspaces/static/css/main.dcfe4c72.chunk.css.map",
+    "static/media/ReactLogo.svg": "/cra-workspaces/static/media/ReactLogo.2c813d88.svg",
+    "static/media/YarnCat.svg": "/cra-workspaces/static/media/YarnCat.42730579.svg"
+  }
+}
